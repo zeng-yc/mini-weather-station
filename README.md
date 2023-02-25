@@ -1,2 +1,2 @@
 # mini-weather-station
-基于CH32V208的温湿度、气压和环境光照监测的微型气象站
+基于CH32V208WB和CH32V003F4的微型气象站

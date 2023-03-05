@@ -4,7 +4,7 @@
   微型气象站由检测端和接收端两部分组成。检测端连接传感器，将传感器测量数据上报至腾讯云物联网平台。在腾讯云物联网平台建立数据流转规则，将检测端上报的数据以MQTT报文形式转发至接收端。接收端处理收到的数据，显示在液晶屏上。实现一处检测，多处查看。
   
 ## Bilibili运行视频展示
-[基于CH32V208和CH32V003的微型气象站](https://www.bilibili.com/video/BV1Ts4y1f7pG "Test")
+[基于CH32V208和CH32V003的微型气象站](https://www.bilibili.com/video/BV1Ts4y1f7pG "运行视频展示")
   
 ## Bilibili专栏文章
 [Bilibili专栏合集](https://www.bilibili.com/read/readlist/rl679941 "bilibili专栏")

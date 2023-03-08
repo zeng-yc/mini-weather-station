@@ -10,7 +10,7 @@
 [Bilibili专栏合集](https://www.bilibili.com/read/readlist/rl679941 "bilibili专栏")
 
 ## 补充说明
-  程序均使用MounRiver Studio作为IDE开发编写。文件编码使用默认的GBK，绝大多数文件内都添加了方便理解的汉字注释(符合语法规范)，如果使用默认文件格式是UTF-8格式的编辑器或者IDE打开出现乱码，请使用增强型文本编辑器转换一下格式即可。
+  程序均使用MounRiver Studio作为IDE开发编写。文件编码使用默认的GBK，绝大多数文件内都添加了方便理解的汉字注释(符合语法规范)，如果使用默认文件格式是UTF-8格式的编辑器或者IDE打开出现乱码，请使用增强型文本编辑器转换编码格式。
 
 ## CH32V208WB检测端
 ![4 硬件组成](https://user-images.githubusercontent.com/92245992/221368938-5e836a06-368c-425e-8171-936bd21879f2.jpg#pic_center)
